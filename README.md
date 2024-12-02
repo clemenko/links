@@ -9,6 +9,7 @@ https://andyc.info/tubes
 
 | Name | Link |
 | ---- | -------- |
+|Kubernetes Ingress/VIP/Load Balancer Conversation | https://youtu.be/-Qih8pLriFY|
 | Harvester v1.4.0 Quick Walk Through - USB PASSTHROUGH | https://youtu.be/HiSzcCT7sos |
 | Coder, Tailscale, and Kubernetes make the best PRIVATE portable dev environment ever!| https://youtu.be/kw9HOmzBYbw | 
 | Easy Guide to Exposing a Kubernetes Service with Tailscale | https://youtu.be/INdZOBnUBl4 |
