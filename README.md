@@ -9,6 +9,7 @@ https://andyc.info/tubes
 
 | Name | Link |
 | ---- | -------- |
+| Rancher HPE CSI Driver Install had issues! We fixed it. | https://youtu.be/DcTSIlcGAPo | 
 | Harvester Addons - Where to run Rancher | https://youtu.be/pHttkWS0pPo |
 | Kubernetes Ingress/VIP/Load Balancer Conversation | https://youtu.be/-Qih8pLriFY|
 | Harvester v1.4.0 Quick Walk Through - USB PASSTHROUGH | https://youtu.be/HiSzcCT7sos |
